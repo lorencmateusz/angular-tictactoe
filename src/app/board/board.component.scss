@@ -1,0 +1,12 @@
+main {
+  display: grid;
+  grid-template-columns: 180px 180px 180px;
+  grid-gap: 1px;
+}
+
+
+app-square {
+  border: 1px burlywood solid;
+  height: 190px;
+}
+
